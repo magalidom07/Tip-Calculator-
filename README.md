@@ -10,7 +10,7 @@ The HTML was the easiest part of the project once I learnd how to use IDs
 
  
 Using the HTML's ID, variables, functions and a couple of if and else statements i was able to create the code for the functionality of the calculator aka, the math aspect of it.
-function calculateTip() {
+
   
 
 Overal, I wish the aesthetic of the calculator was better, but. for me the most important part was for the calculator to have functionality.
