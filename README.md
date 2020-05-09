@@ -9,13 +9,10 @@ The HTML was the easiest part of the project once I learnd how to use IDs
  <div id="container">
   <h1>Tip Calculator</h1>
   <div id="calculator">
-
-
     <form>
       <p>Bill amount?
         <p>
           $ <input id="billamt" type="text" placeholder="Bill Amount">
-
           <p>quality of service?
             <p>
               <select id="serviceQual">
@@ -25,12 +22,10 @@ The HTML was the easiest part of the project once I learnd how to use IDs
 Ordinary </option>
             <option value="0.15">15&#37; &#45; It was Terrible</option>
         </select>
-
     </form>
     <p>Number  of people sharing the bill?</p>
     <input id="peopleamt" type="text" placeholder="Number of People"> people
     <button type="button" id="calculate">♥</button>
-
   </div>
   <div id="totalTip">
     <sup>$</sup><span id="tip">0.00</span>
