@@ -14,3 +14,4 @@ Using the HTML's ID, variables, functions and a couple of if and else statements
   
 
 Overal, I wish the aesthetic of the calculator was better, but. for me the most important part was for the calculator to have functionality.
+https://codepen.io/magalidominguez-Partida/pen/oNjwzyG
